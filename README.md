@@ -25,8 +25,8 @@ The purpose of the analysis is:
 # What have I learnt from this analysis?
 - Based on map chart - China has the highest emission of CO2. 
 - Based on 10 year analysis - China is increasing at a rapid rate over the years while emissions for other countries are declining.
-- Based on pie chart and bar chart for the sources of CO2 - Coal is the main source of the pollution producing the highest CO2 out of the other sources (i.e. oil, gas, cement, flaring and others)
-- Based on chart for emission by per capita, Qatar has the highest CO2 emissions.
+- Based on pie chart and bar chart for the sources of CO2 - Coal is the main source of the pollution, producing the highest CO2 out of the other sources (i.e. oil, gas, cement, flaring and others)
+- Based on chart for emission per capita, Qatar has the highest CO2 emissions.
 
 From the analysis, we can make several assumptions why China has the highest CO2 emissions: 
 
@@ -36,8 +36,12 @@ From the analysis, we can make several assumptions why China has the highest CO2
 -  Lack of government initiatives to invest and monitor the development for a greener energy and a more sustainable production method. 
 - Companies nor the government are committed to change their approaches that could reduce their emission level such as renewable energy or a more energy efficient system.
 
-Qatar actually has the highest CO2 emissions per capita. The reason being that these 5 countries are the largest oil and gas producer. 
-2nd, they have relatively small population 
+For the analysis on emission per capita, Qatar has the highest CO2 emissions:
+- It is the largest oil and gas producer. 
+- They have relatively small population 
+
+Below is a link to my Linkedin.
+[Linkedin Link]( www.linkedin.com/in/karen-ang-44776170)
 
 
 
